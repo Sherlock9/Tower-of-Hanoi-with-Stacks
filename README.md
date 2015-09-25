@@ -1,2 +1,2 @@
 # Tower-of-Hanoi-with-Stacks
-Tower of Hanoit implemented using stacks
+Tower of Hanoi implemented using stacks
