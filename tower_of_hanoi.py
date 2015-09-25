@@ -12,9 +12,9 @@ def toh_stack(n):
     The disks always end on pile C.
     
     >>> toh(2)
-    Pindah 1 ke B.
-    Pindah 2 ke C.
-    Pindah 1 ke C.
+    Pindah 1 ke B
+    Pindah 2 ke C
+    Pindah 1 ke C
     """
     
     ## Initialize the piles. All of them begin on pile A
